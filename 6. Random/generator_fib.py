@@ -13,6 +13,6 @@ def fibonacci(n):
 f=fibonacci(5)
 print(type(f))
 
-for x in f:
-    print(x, " ", end="")
-print()
+# for x in f:
+#     print(x, " ", end="")
+# print()
