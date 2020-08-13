@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a731694-380f-4345-822d-83223fd8722d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/0.DesignPatterns/singleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.DesignPatterns/singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/1.manually_consume_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Random/abstract_class_play.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Random/abstract_class_play.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="singleton.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0.DesignPatterns/singleton.py">
+      <file leaf-file-name="2.delegating_iteration.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="357">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract_class_play.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6. Random/abstract_class_play.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,7 +95,6 @@
         <option value="$PROJECT_DIR$/6. Random/property_example.py" />
         <option value="$PROJECT_DIR$/6. Random/Inheritence.py" />
         <option value="$PROJECT_DIR$/6. Random/getter_setter.py" />
-        <option value="$PROJECT_DIR$/6. Random/abstract_class_play.py" />
         <option value="$PROJECT_DIR$/6. Random/iterator_example.py" />
         <option value="$PROJECT_DIR$/6. Random/generator_test.py" />
         <option value="$PROJECT_DIR$/6. Random/random1.py" />
@@ -88,6 +103,10 @@
         <option value="$PROJECT_DIR$/0.InterviewQuestions/sum_of_two_numbers.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/0.DesignPatterns/singleton.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/manually_consume_iterator.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/1.manually_consume_iterator.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" />
+        <option value="$PROJECT_DIR$/6. Random/abstract_class_play.py" />
       </list>
     </option>
   </component>
@@ -96,6 +115,9 @@
     <option name="y" value="-9" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -113,6 +135,11 @@
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="0.DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="6. Random" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,8 +169,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.singleton">
-    <configuration name="generator_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.abstract_class_play">
+    <configuration name="2.delegating_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,17 +178,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/generator_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="iterator_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="abstract_class_play" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,13 +200,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/iterator_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/abstract_class_play.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="random1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="manually_consume_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/random1.py" />
+      <option name="SCRIPT_NAME" value="D:\MyProjects\DataStructures\cookbook-python-examples\chap4-iterators_and_generators\1.manually_consume_iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,19 +280,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Python.iterator_example" />
-      <item itemvalue="Python.generator_test" />
-      <item itemvalue="Python.random1" />
       <item itemvalue="Python.sum_of_two_numbers" />
       <item itemvalue="Python.singleton" />
+      <item itemvalue="Python.manually_consume_iterator" />
+      <item itemvalue="Python.2.delegating_iteration" />
+      <item itemvalue="Python.abstract_class_play" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.abstract_class_play" />
+        <item itemvalue="Python.2.delegating_iteration" />
+        <item itemvalue="Python.manually_consume_iterator" />
         <item itemvalue="Python.singleton" />
         <item itemvalue="Python.sum_of_two_numbers" />
-        <item itemvalue="Python.random1" />
-        <item itemvalue="Python.generator_test" />
-        <item itemvalue="Python.iterator_example" />
       </list>
     </recent_temporary>
   </component>
@@ -367,25 +394,10 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="45" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/SIEMENS_BACK_END/SIEMENS_MERGE/siemens-product-advisor-api/app/graphql/query/content_to_publish.py" />
-    <entry file="file://$PROJECT_DIR$/6. Random/Questions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. BST/binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5. LinearDS/stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -595,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6. Random/abstract_class_play.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6. Random/iterator_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -640,6 +645,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0.InterviewQuestions/sum_of_two_numbers.py" />
+    <entry file="file://$PROJECT_DIR$/0.DesignPatterns/singleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -647,10 +662,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.DesignPatterns/singleton.py">
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/1.manually_consume_iterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Random/abstract_class_play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

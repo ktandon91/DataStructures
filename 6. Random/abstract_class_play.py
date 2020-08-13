@@ -1,12 +1,16 @@
-from abc import ABC, abstractclassmethod
+import abc
+from abc import ABC, abstractclassmethod, ABCMeta
 
 class MyClass(ABC):
-    @abstractclassmethod
+    # @classmethod
+    @abc.abstractmethod
     def print_num(self):
-        pass
+        print('hi')
 
     def you_hoo(self):
         print("youhoo")
 
+class SubMyClass(MyClass):
+    pass
 
-myObj = MyClass()
+myObj = SubMyClass().print_num()
