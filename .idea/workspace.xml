@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a731694-380f-4345-822d-83223fd8722d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Random/decorator_test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/4.itertools_chain_method_for_chaining_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/5.generator_in_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testing_with_python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testing_with_python/main_function_using_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testing_with_python/unit_test_for_requests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,18 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="main_function_using_requests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit_testing_with_python/main_function_using_requests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="51">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.itertools_ziplongest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="unit_test_for_requests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unit_testing_with_python/unit_test_for_requests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decorator_.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6. Random/decorator_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -89,8 +106,15 @@
         <option value="$PROJECT_DIR$/6. Random/abstract_class_play.py" />
         <option value="$PROJECT_DIR$/6. Random/add_complex_number.py" />
         <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" />
-        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/4.itertools_chain_method_for_chaining_sq.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/4.itertools_chain_method_for_chaining_seq.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/4.generator_in_iter.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/5.generator_in_iter.py" />
+        <option value="$PROJECT_DIR$/unit_testing_with_python/main_function_using_requests.py" />
+        <option value="$PROJECT_DIR$/6. Random/decorator_test_1.py" />
+        <option value="$PROJECT_DIR$/unit_testing_with_python/unit_test_for_requests.py" />
       </list>
     </option>
   </component>
@@ -118,13 +142,7 @@
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="cookbook-python-examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="cookbook-python-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="chap4-iterators_and_generators" type="462c0819:PsiDirectoryNode" />
+              <item name="unit_testing_with_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,44 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.itertools_ziplongest">
-    <configuration name="2.delegating_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="3.itertools_ziplongest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="abstract_class_play" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in unit_test_for_requests.py">
+    <configuration name="decorator_" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,13 +185,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/abstract_class_play.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/decorator_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="add_complex_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator_test_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,13 +203,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/add_complex_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Random/decorator_test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="manually_consume_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_function_using_requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_testing_with_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\MyProjects\DataStructures\cookbook-python-examples\chap4-iterators_and_generators\1.manually_consume_iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit_testing_with_python/main_function_using_requests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,20 +246,46 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration name="Unittests for unit_testing_with_python.unit_test_for_requests.TestRequest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_testing_with_python.unit_test_for_requests.TestRequest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in unit_test_for_requests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit_testing_with_python/unit_test_for_requests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list>
-      <item itemvalue="Python.manually_consume_iterator" />
-      <item itemvalue="Python.2.delegating_iteration" />
-      <item itemvalue="Python.abstract_class_play" />
-      <item itemvalue="Python.add_complex_number" />
-      <item itemvalue="Python.3.itertools_ziplongest" />
+      <item itemvalue="Python.main_function_using_requests" />
+      <item itemvalue="Python tests.Unittests for unit_testing_with_python.unit_test_for_requests.TestRequest" />
+      <item itemvalue="Python tests.Unittests in unit_test_for_requests.py" />
+      <item itemvalue="Python.decorator_test_1" />
+      <item itemvalue="Python.decorator_" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.itertools_ziplongest" />
-        <item itemvalue="Python.2.delegating_iteration" />
-        <item itemvalue="Python.add_complex_number" />
-        <item itemvalue="Python.abstract_class_play" />
-        <item itemvalue="Python.manually_consume_iterator" />
+        <item itemvalue="Python tests.Unittests in unit_test_for_requests.py" />
+        <item itemvalue="Python tests.Unittests for unit_testing_with_python.unit_test_for_requests.TestRequest" />
+        <item itemvalue="Python.decorator_test_1" />
+        <item itemvalue="Python.decorator_" />
+        <item itemvalue="Python.main_function_using_requests" />
       </list>
     </recent_temporary>
   </component>
@@ -294,14 +302,47 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 21h 56m 43s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 05m 15s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 05m 50s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 08m 17s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 08m 57s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 09m 37s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 10m 42s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 10m 51s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit_testing_with_python_unit_test_for_requests_TestRequest - 2020.08.13 at 22h 11m 47s.xml">
+      <configuration name="Unittests for unit_testing_with_python.unit_test_for_requests.TestRequest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test_for_requests_py - 2020.08.13 at 22h 44m 18s.xml">
+      <configuration name="Unittests in unit_test_for_requests.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1386" height="788" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.18175074" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.18175074" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.19538969" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.22713415" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.22713415" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.18175074" />
@@ -343,27 +384,27 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/1. Algos/result_print.py</url>
           <line>14</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/3. DyPro/longest_common_seq_recursion.py</url>
           <line>2</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/3. DyPro/rod_price.py</url>
           <line>36</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/3. DyPro/rod_price_copy.py</url>
           <line>20</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/6. Random/decorator_function_calls.py</url>
           <line>5</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
@@ -378,7 +419,7 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/6. Random/add_complex_number.py</url>
           <line>18</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
@@ -387,8 +428,13 @@
           <line>15</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unit_testing_with_python/unit_test_for_requests.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="67" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -419,36 +465,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1. Algos/SubSetProb.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. Algos/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. Algos/SubSetProb.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. Algos/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. Algos/SubSetProb.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1. Algos/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1. Algos/SubSetProb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -569,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6. Random/decorator_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6. Random/decorator_function_calls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -680,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6. Random/abstract_class_play.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -697,13 +699,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/4.itertools_chain_method_for_chaining_seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/5.generator_in_iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="605" selection-start-line="605" selection-end-line="605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Random/decorator_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Random/decorator_test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_testing_with_python/main_function_using_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_testing_with_python/unit_test_for_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
