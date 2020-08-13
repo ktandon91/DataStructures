@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a731694-380f-4345-822d-83223fd8722d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,43 +18,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.delegating_iteration.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="abstract_class_play.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6. Random/abstract_class_play.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_complex_number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6. Random/add_complex_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" selection-start-line="8" selection-end-line="9" />
-            </state>
-          </provider>
+      <file leaf-file-name="3.itertools_ziplongest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,8 +88,9 @@
         <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/1.manually_consume_iterator.py" />
         <option value="$PROJECT_DIR$/6. Random/abstract_class_play.py" />
         <option value="$PROJECT_DIR$/6. Random/add_complex_number.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" />
+        <option value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -140,12 +118,13 @@
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="0.DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbook-python-examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
-              <item name="6. Random" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbook-python-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="chap4-iterators_and_generators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.delegating_iteration">
+  <component name="RunManager" selected="Python.3.itertools_ziplongest">
     <configuration name="2.delegating_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,6 +168,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="3.itertools_ziplongest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,24 +245,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="singleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0.DesignPatterns" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0.DesignPatterns/singleton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,19 +265,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Python.singleton" />
       <item itemvalue="Python.manually_consume_iterator" />
       <item itemvalue="Python.2.delegating_iteration" />
       <item itemvalue="Python.abstract_class_play" />
       <item itemvalue="Python.add_complex_number" />
+      <item itemvalue="Python.3.itertools_ziplongest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3.itertools_ziplongest" />
         <item itemvalue="Python.2.delegating_iteration" />
         <item itemvalue="Python.add_complex_number" />
         <item itemvalue="Python.abstract_class_play" />
         <item itemvalue="Python.manually_consume_iterator" />
-        <item itemvalue="Python.singleton" />
       </list>
     </recent_temporary>
   </component>
@@ -317,13 +296,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.18175074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.18175074" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.19538969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.22713415" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.22713415" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.18175074" />
@@ -365,27 +343,27 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1. Algos/result_print.py</url>
+          <url />
           <line>14</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3. DyPro/longest_common_seq_recursion.py</url>
+          <url />
           <line>2</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3. DyPro/rod_price.py</url>
+          <url />
           <line>36</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3. DyPro/rod_price_copy.py</url>
+          <url />
           <line>20</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Random/decorator_function_calls.py</url>
+          <url />
           <line>5</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
@@ -400,7 +378,7 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Random/add_complex_number.py</url>
+          <url />
           <line>18</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
@@ -441,9 +419,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5. LinearDS/par_checker.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1. Algos/SubSetProb.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -698,6 +673,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/6. Random/add_complex_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/6. Random/abstract_class_play.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -708,24 +697,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6. Random/add_complex_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/3.itertools_ziplongest.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/2.delegating_iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
