@@ -97,23 +97,23 @@ class BST:
         return str(self.value)
 
 
-if __name__ == '__main__':
-    a = BST(8)
-    a.insert(5)
-    a.insert(12)
-    a.insert(10)
-    a.insert(14)
-    a.insert(3)
-    a.insert(7)
-    # a.remove(8)
-
-    # print(a.value)
-    # print(a.left)
-    # print(a.right)
-    # a = BST(1)
-    # for i in range(2,11):
-    #     a.insert(i)
-    # for i in range(1,11):
-    #     a.remove(i)
-    # print(a)
-    a.pre_order()
+# if __name__ == '__main__':
+#     a = BST(8)
+#     a.insert(5)
+#     a.insert(12)
+#     a.insert(10)
+#     a.insert(14)
+#     a.insert(3)
+#     a.insert(7)
+#     # a.remove(8)
+#
+#     # print(a.value)
+#     # print(a.left)
+#     # print(a.right)
+#     # a = BST(1)
+#     # for i in range(2,11):
+#     #     a.insert(i)
+#     # for i in range(1,11):
+#     #     a.remove(i)
+#     # print(a)
+#     a.pre_order()
