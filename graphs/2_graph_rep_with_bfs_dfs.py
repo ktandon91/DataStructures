@@ -37,7 +37,28 @@ class Graph:
         self.nodes[source].adjacent[self.nodes[destination]] = weight
 
 
+def acyclic_graph():
+    g = Graph()
 
+    #       A
+    #     /    \
+    #    B      C
+    #  /   \    /
+    # D    E   F
+    g.add_edge('A', 'B', 3)
+    g.add_edge('A', 'C', 3)
+    # g.add_edge('B', 'A', 3)
+    g.add_edge('B', 'D', 3)
+    g.add_edge('B', 'E', 3)
+    # g.add_edge('C', 'A', 3)
+    g.add_edge('C', 'F', 3)
+    # g.add_edge('D', 'B', 3)
+    # g.add_edge('E', 'B', 3)
+    # g.add_edge('E', 'F', 3)
+    # g.add_edge('F', 'C', 3)
+    # g.add_edge('F', 'E', 3)
+
+    return g
 
 g = Graph()
 

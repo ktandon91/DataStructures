@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a731694-380f-4345-822d-83223fd8722d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/graphs/graph_rep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Random/efficient_matrix_declaration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/3_dungeon_problem_as_grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bellman_ford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dijkstra_algo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/shortest_path_from_dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/single_source_shortest_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/topsort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/1. graph_representation.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/1_graph_representation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphs/2. graph_rep_with_bfs_dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphs/2_graph_rep_with_bfs_dfs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,29 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="graph_rep.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/graphs/graph_rep.py">
+      <file leaf-file-name="bellman_ford.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graphs/bellman_ford.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="87" column="43" lean-forward="true" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1. graph_representation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graphs/1. graph_representation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/enum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="323" selection-start-line="323" selection-end-line="323" />
+            <state relative-caret-position="204">
+              <caret line="12" column="95" selection-start-line="12" selection-start-column="95" selection-end-line="12" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -58,6 +49,7 @@
       <find>__call__</find>
       <find>type</find>
       <find>class type</find>
+      <find>node_na</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,20 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1. Algos/subset.py" />
-        <option value="$PROJECT_DIR$/6. Randon/random1.py" />
-        <option value="$PROJECT_DIR$/6. Randon/decorator_.py" />
-        <option value="$PROJECT_DIR$/6. Randon/iteratore_example.py" />
-        <option value="$PROJECT_DIR$/6. Randon/decorator_function_calls.py" />
-        <option value="$PROJECT_DIR$/6. Randon/generator_fib.py" />
-        <option value="$PROJECT_DIR$/6. Random/Questions" />
-        <option value="$PROJECT_DIR$/6. Random/Immutable_class_eg.py" />
-        <option value="$PROJECT_DIR$/6. Random/property_example.py" />
-        <option value="$PROJECT_DIR$/6. Random/Inheritence.py" />
-        <option value="$PROJECT_DIR$/6. Random/getter_setter.py" />
-        <option value="$PROJECT_DIR$/6. Random/iterator_example.py" />
-        <option value="$PROJECT_DIR$/6. Random/generator_test.py" />
-        <option value="$PROJECT_DIR$/6. Random/random1.py" />
         <option value="$PROJECT_DIR$/../okta_api/app.py" />
         <option value="$PROJECT_DIR$/6. Random/generator_fib.py" />
         <option value="$PROJECT_DIR$/0.InterviewQuestions/sum_of_two_numbers.py" />
@@ -117,6 +95,20 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/graphs/graph_representation.py" />
         <option value="$PROJECT_DIR$/graphs/graph_rep.py" />
+        <option value="$PROJECT_DIR$/6. Random/efficient_matrix_declaration.py" />
+        <option value="$PROJECT_DIR$/graphs/3.gt_on_grids.py" />
+        <option value="$PROJECT_DIR$/graphs/2. graph_rep_with_bfs_dfs.py" />
+        <option value="$PROJECT_DIR$/graphs/4. topsort.py" />
+        <option value="$PROJECT_DIR$/graphs/2_graph_rep_with_bfs_dfs.py" />
+        <option value="$PROJECT_DIR$/graphs/5_single_source_shortest_path.py" />
+        <option value="$PROJECT_DIR$/graphs/dijksta algo.py" />
+        <option value="$PROJECT_DIR$/graphs/graph.py" />
+        <option value="$PROJECT_DIR$/graphs/single_source_shortest_path.py" />
+        <option value="$PROJECT_DIR$/graphs/topsort.py" />
+        <option value="$PROJECT_DIR$/graphs/dijkstra algo.py" />
+        <option value="$PROJECT_DIR$/graphs/shortest_path_from_dijkstra.py" />
+        <option value="$PROJECT_DIR$/graphs/dijkstra_algo.py" />
+        <option value="$PROJECT_DIR$/graphs/bellman_ford.py" />
       </list>
     </option>
   </component>
@@ -172,8 +164,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.graph_rep">
-    <configuration name="1. graph_representation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.shortest_path_from_dijkstra">
+    <configuration name="dijkstra algo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,67 +177,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/1. graph_representation.py" />
+      <option name="SCRIPT_NAME" value="D:\MyProjects\DataStructures\graphs\dijkstra_algo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="31. min heap construction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoexpert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoexpert/31. min heap construction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="4. dfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoexpert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoexpert/4. dfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataStructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoexpert" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\MyProjects\DataStructures\algoexpert\28. bfs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="graph_rep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dijkstra_algo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +195,61 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/graph_rep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/dijkstra_algo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="shortest_path_from_dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/shortest_path_from_dijkstra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="single_source_shortest_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/single_source_shortest_path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="topsort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graphs/topsort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +275,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Python.4. dfs" />
-      <item itemvalue="Python.bfs" />
-      <item itemvalue="Python.31. min heap construction" />
-      <item itemvalue="Python.1. graph_representation" />
-      <item itemvalue="Python.graph_rep" />
+      <item itemvalue="Python.single_source_shortest_path" />
+      <item itemvalue="Python.topsort" />
+      <item itemvalue="Python.dijkstra algo" />
+      <item itemvalue="Python.shortest_path_from_dijkstra" />
+      <item itemvalue="Python.dijkstra_algo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.graph_rep" />
-        <item itemvalue="Python.1. graph_representation" />
-        <item itemvalue="Python.31. min heap construction" />
-        <item itemvalue="Python.4. dfs" />
-        <item itemvalue="Python.bfs" />
+        <item itemvalue="Python.shortest_path_from_dijkstra" />
+        <item itemvalue="Python.single_source_shortest_path" />
+        <item itemvalue="Python.dijkstra_algo" />
+        <item itemvalue="Python.dijkstra algo" />
+        <item itemvalue="Python.topsort" />
       </list>
     </recent_temporary>
   </component>
@@ -346,13 +338,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.18229167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.203125" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.19538969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.2990196" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.2990196" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.18175074" />
@@ -474,26 +465,55 @@
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/graphs/1. graph_representation.py</url>
+          <url>file://$PROJECT_DIR$/graphs/1_graph_representation.py</url>
           <line>36</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/graphs/graph_rep.py</url>
+          <url>file://$PROJECT_DIR$/graphs/2_graph_rep_with_bfs_dfs.py</url>
           <line>85</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graphs/shortest_path_from_dijkstra.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="99" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="116" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="vertex.adjacent" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>dist[node]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vertex.adjacent[node]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vertex.adjacent[node.node_name]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vertex.adjacent</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for node in graph.nodes:
+    print(node)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>assert vertex.visit_state == State.unvisited</expression-string>
         <language-id>Python</language-id>
@@ -519,100 +539,56 @@
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>self.graph[src]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>while i in self.children:
-    i</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>vertex.adjacent.keys()</expression-string>
+        <expression-string>graph.nodes[node]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>not bfs_list</expression-string>
+        <expression-string>graph[node]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>running_sum_list</expression-string>
+        <expression-string>vertex.adjacent[node]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>while i in self.children:</expression-string>
+        <expression-string>dist[vertex.node_name]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>self.children</expression-string>
+        <expression-string>dist[vertex.node_name] + vertex.adjacent[node]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i</expression-string>
+        <expression-string>for node in graph.nodes:</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>solve_dungeon.</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>solve_dungeon.__globals__</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>solve_dungeon.__module__</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6. Random/iterator_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6. Random/generator_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/SIEMENS_BACK_END/SIEMENS_MERGE/siemens-product-advisor-api/app/graphql/query/content_to_publish.py" />
-    <entry file="file://$PROJECT_DIR$/../okta_api/app.py" />
-    <entry file="file://$PROJECT_DIR$/6. Random/random1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6. Random/Questions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6. Random/generator_fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.InterviewQuestions/sum_of_two_numbers.py" />
-    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook-python-examples/chap4-iterators_and_generators/1.manually_consume_iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6. Random/add_complex_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -732,13 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1339494164/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3596" column="6" selection-start-line="3596" selection-start-column="6" selection-end-line="3596" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -875,17 +844,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphs/1. graph_representation.py">
+    <entry file="file://$PROJECT_DIR$/6. Random/efficient_matrix_declaration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/1_graph_representation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphs/graph_rep.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="87" column="43" lean-forward="true" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/2_graph_rep_with_bfs_dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" column="16" selection-start-line="48" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/3_dungeon_problem_as_grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1339494164/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2811" column="8" selection-start-line="2811" selection-start-column="8" selection-end-line="2811" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/topsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#392#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/single_source_shortest_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/shortest_path_from_dijkstra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/dijkstra_algo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphs/bellman_ford.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="95" selection-start-line="12" selection-start-column="95" selection-end-line="12" selection-end-column="95" />
         </state>
       </provider>
     </entry>
